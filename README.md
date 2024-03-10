@@ -1,4 +1,6 @@
 # finance_management
+This project is a finance management application designed to help users track their expenses and income.
+
 # Base URL
 The base URL for accessing the API endpoints is http://localhost:8080 if running locally.
 
